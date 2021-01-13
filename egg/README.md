@@ -13,6 +13,7 @@
 > Get http://127.0.0.1:5000/home/homecarousel 可测试一把
 > 现在十个接口 注册登陆 首页和分类 这些已经足够进行 flutter 商城的开发
 
+> 登陆名和密码 xueyuan888 123321 为了调试方便 可以把验证码功能先屏蔽
 ## QuickStart
 
 <!-- add docs here for user -->
