@@ -1,12 +1,9 @@
 /*
- * @Descripttion:
- * @version:
- * @Author: sueRimn
- * @Date: 2019-11-29 16:20:03
- * @LastEditors: qqqiu
- * @LastEditTime: 2020-04-29 20:17:16
+ * @Author: freeze.xue 
+ * @Date: 2021-01-13 14:58:28 
+ * @Last Modified by:   freeze.xue 
+ * @Last Modified time: 2021-01-13 14:58:28 
  */
-
 "use strict";
 const Controller = require("egg").Controller;
 class UserController extends Controller {
